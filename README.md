@@ -7,3 +7,4 @@ ok
 ammend-2
 f1
 f2
+master changed
